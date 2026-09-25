@@ -1,12 +1,33 @@
 <p align="center">
-  <img src="./assets/uktc-logo.png" alt="UKTC logo" height="110" />
+  <img src="https://uktc-bg.com/uktc-content/themes/uktc-wp/images/logo.png" alt="UKTC logo" height="140" />
 </p>
-
-<img src="./assets/header.svg" alt="UKTC — National Vocational High School of Computer Technologies and Systems" width="100%" />
 
 ## My School
 
 **UKTC** — National Vocational High School of Computer Technologies and Systems
+
+## Organizations
+
+<p align="center">
+  <a href="https://tu-sofia.bg/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://tu-sofia.bg/assets/logos/tu-sofia-white-new.png" />
+      <img src="https://tu-sofia.bg/assets/logos/tu-sofia-black-new.png" alt="Technical University of Sofia" height="70" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.saxion.edu/">
+    <img src="https://www.saxion.edu/webfiles/1788341337993/static/default/images/logo.svg" alt="Saxion University of Applied Sciences" height="70" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://sofiatech.bg/en/">
+    <img src="./assets/sofia-tech-park.png" alt="Sofia Tech Park" height="70" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.saxion.edu/research/research-groups/technologies-for-criminal-investigations">
+    <img src="./assets/tci.svg" alt="TCI — Technologies for Criminal Investigations" height="70" />
+  </a>
+</p>
 
 ## Languages & Tools
 
