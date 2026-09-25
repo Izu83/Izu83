@@ -1,6 +1,10 @@
+<img src="./assets/bg-flag.svg" alt="Bulgarian flag" width="100%" />
+
 <p align="center">
   <img src="https://uktc-bg.com/uktc-content/themes/uktc-wp/images/logo.png" alt="UKTC logo" height="140" />
 </p>
+
+<h3 align="center">Software &amp; AI Developer</h3>
 
 ## My School
 
@@ -9,7 +13,7 @@
 ## Organizations
 
 <p align="center">
-<a href="https://tu-sofia.bg/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://tu-sofia.bg/assets/logos/tu-sofia-white-new.png" /><img src="https://tu-sofia.bg/assets/logos/tu-sofia-black-new.png" alt="Technical University of Sofia" height="70" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.saxion.edu/"><img src="https://www.saxion.edu/webfiles/1788341337993/static/default/images/logo.svg" alt="Saxion" height="70" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://sofiatech.bg/en/"><img src="https://cdn.brandfetch.io/idT2JmLWAj/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1781839189817" alt="Sofia Tech Park" height="70" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.saxion.edu/research/research-groups/technologies-for-criminal-investigations"><img src="./assets/tci.svg" alt="TCI" height="70" /></a>
+<a href="https://tu-sofia.bg/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://tu-sofia.bg/assets/logos/tu-sofia-white-new.png" /><img src="https://tu-sofia.bg/assets/logos/tu-sofia-black-new.png" alt="Technical University of Sofia" height="70" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.saxion.edu/"><img src="https://www.saxion.edu/webfiles/1788341337993/static/default/images/logo.svg" alt="Saxion" height="70" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://sofiatech.bg/en/"><img src="https://cdn.brandfetch.io/idT2JmLWAj/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1781839189817" alt="Sofia Tech Park" height="70" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.saxion.edu/research/research-groups/technologies-for-criminal-investigations"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/tci-white.svg" /><img src="./assets/tci-black.svg" alt="TCI — Technologies for Criminal Investigations" height="70" /></picture></a>
 </p>
 
 ## Languages & Tools
