@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="260" height="80" viewBox="0 0 260 80">
-  <rect width="260" height="80" rx="10" fill="#1f2937"/>
-  <text x="130" y="42" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#ffffff">TCI</text>
-  <text x="130" y="64" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#cbd5e1">Technologies for Criminal Investigations</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="70" viewBox="0 0 220 70">
+  <rect x="1.5" y="1.5" width="217" height="67" rx="10" fill="none" stroke="#3b82f6" stroke-width="3"/>
+  <text x="110" y="38" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#3b82f6">TCI</text>
+  <text x="110" y="57" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#6b8fd6">Technologies for Criminal Investigations</text>
 </svg>
